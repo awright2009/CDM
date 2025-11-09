@@ -25,8 +25,6 @@ Data can be downloaded from [Google Drive](https://drive.google.com/file/d/17aFC
 
 Stored in `./sample/generated_definition_for_cs_term.txt`
 
-
-
 ## Citation
 
 The details of this repo are described in the following paper. If you find this repo useful, please kindly cite it:
@@ -39,3 +37,12 @@ The details of this repo are described in the following paper. If you find this 
   year={2022}
 }
 ```
+
+# awright2009 SMU group project
+
+We read the paper and selected it for evaluation (will make our own twist to the model and see how it performs, possibly using a different dataset)
+
+# Checkpoint Best (after 8 epochs or so)
+https://drive.google.com/file/d/1wu2tBsUu01p6jx4rttTiwtJ2eT7el7ZX/view?usp=drive_link
+
+
